@@ -1,10 +1,9 @@
 # The Art of Chess
 
+## I
 
-## First Prototype
+## II
 
-## Procedures
+## III
 
-## Conclusion
-
-## References
+## IV

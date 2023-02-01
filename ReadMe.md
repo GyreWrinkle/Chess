@@ -1,2 +1,2 @@
-# The Art of Chess
+# Chess
 
